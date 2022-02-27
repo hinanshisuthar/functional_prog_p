@@ -77,3 +77,10 @@ import './style.css';
 // });
 
 // console.log(evenOddObject);
+
+// log in with id and name
+// const logWithName = (msg) => `hinanshi says ${msg}`;
+// const logWithId = (msg) => `ID: 34567 :: ${msg}`;
+// const logWithIdAndName = (msg) => logWithId(logWithName(msg));
+
+// console.log(logWithIdAndName('she is a star'));
