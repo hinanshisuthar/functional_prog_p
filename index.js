@@ -54,3 +54,26 @@ import './style.css';
 //     num;
 //   })
 // );
+
+// const numbers = [1, 3, 5, 2, 22, 1, 9];
+// const oddNums = numbers.filter((num) => num % 2 !== 0);
+// console.log(oddNums);
+// const evenNums = numbers.filter((num) => num % 2 === 0);
+// console.log(evenNums);
+
+// const sumOfOdds = oddNums.reduce(
+//   (previousValue, currentValue) => previousValue + currentValue
+// );
+// console.log(sumOfOdds);
+
+// const sumOfEvens = evenNums.reduce(
+//   (previousValue, currentValue) => previousValue + currentValue
+// );
+// console.log(sumOfEvens);
+
+// const evenOddObject = (sumOfOdds, sumOfEvens) => ({
+//   oddSum: sumOfOdds,
+//   evenSum: sumOfEvens,
+// });
+
+// console.log(evenOddObject);
